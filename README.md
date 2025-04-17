@@ -19,7 +19,7 @@ R Squared Error: 0.9892091367803421.
 The evaluation results help in understanding the performance of the model.
 
 # Results
-The final model provides predictions for gold prices with a certain accuracy. The results are visualized using plots and graphs to show the actual vs. predicted prices.
+The final model provides predictions for gold prices with a certain accuracy. The results are visualized using plots and graphs to show the actual vs predicted prices.
 
 # Contributing
 Contributions are welcome! If you have any improvements or suggestions, feel free to open a pull request or create an issue.
