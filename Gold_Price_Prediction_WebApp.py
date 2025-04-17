@@ -11,7 +11,7 @@ import streamlit as st
 #loading. the saved model
 loaded_model = pickle.load(open('gold_price_prediction_model.sav','rb'))
 
-#creating a function for prediction
+
 
 def gold_price_prediction(input_data):
 
